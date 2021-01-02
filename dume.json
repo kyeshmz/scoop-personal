@@ -1,0 +1,10 @@
+{
+  "version": "0.1.5",
+  "url": "https://github.com/Rainbox-dev/DuME/releases/download/v$version/DuME-$version-Win64.zip",
+  "extract_dir": "DuME-$version-Win64",
+  "bin": "DuME.exe",
+  "homepage": "https://rainboxlab.org/tools/dume/",
+  "checkver": {
+    "github": "https://github.com/Rainbox-dev/DuME/"
+  }
+}
